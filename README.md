@@ -3,6 +3,8 @@
 An AI-powered virtual assistant designed to help users get general health-related advice, like identifying common symptoms or home remedies. Built using IBM Watson Assistant and IBM Cloud Lite, this intelligent agent provides real-time conversational support for basic health queries.
 
 ---
+<img width="730" height="389" alt="Innovation" src="https://github.com/user-attachments/assets/20cea22c-d573-4adf-a81e-6b8cf1d55fbf" />
+
 
 ## 🧹 Problem Statement
 
